@@ -106,4 +106,6 @@ This is the hardest part on windows.
   
    ![code](fig/code.png)
 
-   
+
+## Author
+- [Abdullah Al Fahad](https://github.com/alfahadarc)
